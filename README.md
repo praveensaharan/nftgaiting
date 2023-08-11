@@ -19,13 +19,13 @@ To install and run the project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/praveensaharan/nftGating.git
+   git clone https://github.com/praveensaharan/nftgaiting.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd nftGating
+   cd nftgaiting
    ```
 
 3. Install dependencies for both the server and client:
@@ -59,4 +59,4 @@ To run the project locally, you'll need to start both the server and client. Fol
 
 4. Customize the project as per your requirements. The code for the server and client can be found in the `server/` and `client/` directories, respectively.
 
-That's it! You can now use this README template as a starting point for your project. Make sure to update the sections with relevant information and instructions specific to your implementation of nftGating. Good luck with your project!
+That's it! You can now use this README template as a starting point for your project. Make sure to update the sections with relevant information and instructions specific to your implementation of nftgaiting. Good luck with your project!
